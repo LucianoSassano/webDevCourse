@@ -1,0 +1,14 @@
+body {
+  background: #ccc;
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  max-width: 500px; }
+  body .articulo {
+    background: #2C8C99; }
+    body .articulo .autor {
+      text-decoration: underline; }
+    body .articulo .parrafo {
+      line-height: 25px; }
+
+/*# sourceMappingURL=anidacion.css.map */

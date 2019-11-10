@@ -1,0 +1,13 @@
+// NOTE: las variables nos permiten almacenar valores de forma temporal//
+$colorPrimario: #ff4b32;
+// NOTE: $negr0:#000 ,defino mi color de negro que quiero trabajar
+
+body{
+  h1{
+    color: $colorPrimario;
+  }
+
+  p{
+    color: $colorPrimario;
+  }
+}

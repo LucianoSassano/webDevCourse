@@ -1,0 +1,23 @@
+$fondo: #ccc;
+$fondoArticulo:#2C8C99;
+
+body{
+  background: $fondo;
+  display:flex;
+  flex-direction: column;
+  text-align: left;
+  max-width: 500px;
+
+  .articulo{
+    background:$fondoArticulo;
+    .autor{
+      text-decoration: underline;
+    }
+    .parrafo{
+      line-height: 25px;
+
+    }
+
+
+  }
+}
